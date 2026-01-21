@@ -52,8 +52,11 @@ churn_gpu/
 ._*
 
 # Model files
+*.h5
 *.hdf5
+*.keras
 *.pb
+*.pkl
 *.pickle
 *.joblib
 *.pt
